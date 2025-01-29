@@ -1,6 +1,6 @@
 # Overview
 
-As a software engineer, I am always eager to expand my knowledge and skills. This project is designed to deepen my understanding of JavaScript and its application in web development. I, Maxim Person, created a weather forecast web application to showcase my ability to work with APIs, handle asynchronous JavaScript.
+As a software engineer, I am always eager to expand my knowledge and skills. This project is designed to deepen my understanding of JavaScript and its application in web development. My name is Maxim Person and I created a weather forecast web application to showcase my ability to work with APIs, handle asynchronous JavaScript.
 
 The application I created fetches and displays weather forecasts based on user-inputted locations. By leveraging the OpenWeatherMap API, it retrieves weather data and presents it in an intuitive format. Users can search for weather information by entering a city name, and the application displays the current weather conditions, temperature, humidity, and a 5-day forecast.
 
