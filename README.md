@@ -1,12 +1,12 @@
 # Overview
 
-As a software engineer, I am constantly seeking to expand my knowledge and skills. This project aims to enhance my understanding of JavaScript and its application in web development. I developed a weather forecast web application to demonstrate my ability to work with APIs, asynchronous JavaScript, and DOM manipulation.
+As a software engineer, I am always eager to expand my knowledge and skills. This project is designed to deepen my understanding of JavaScript and its application in web development. I, Maxim Person, created a weather forecast web application to showcase my ability to work with APIs, handle asynchronous JavaScript.
 
-The software fetches and displays weather forecasts based on user-entered locations. It uses the OpenWeatherMap API to retrieve weather data and present it in a user-friendly format. Users can search for weather information by entering a city name, and the application displays the current weather conditions, temperature, humidity, and a 5-day forecast.
+The application I created fetches and displays weather forecasts based on user-inputted locations. By leveraging the OpenWeatherMap API, it retrieves weather data and presents it in an intuitive format. Users can search for weather information by entering a city name, and the application displays the current weather conditions, temperature, humidity, and a 5-day forecast.
 
-The purpose of writing this software is to gain hands-on experience with JavaScript, improve my coding skills, and learn how to integrate external APIs into a web application.
+The purpose of developing this software is to gain practical experience with JavaScript, enhance my coding skills, and learn how to integrate external APIs into a web application.
 
-YOUTUBE LINK GOES HERE
+I WILL PLACE MY YOUTUBE VIDEO HERE!
 
 # Development Environment
 
@@ -15,7 +15,7 @@ YOUTUBE LINK GOES HERE
 - **Libraries**: OpenWeatherMap API
 
 # Useful Websites
-
+- [Collections in Java with Example Programs](https://beginnersbook.com/java-collections-tutorials/)
 - [W3Schools](https://www.w3schools.com/js/)
 - [OpenWeatherMap API Documentation](https://openweathermap.org/api)
 
@@ -24,3 +24,4 @@ YOUTUBE LINK GOES HERE
 - Add functionality to display a 5-day weather forecast using ES6 array functions like `map`, `filter`, and `reduce`.
 - Implement a recursive function to enhance the application's features.
 - Improve the user interface and make it more interactive with additional CSS and JavaScript animations.
+
